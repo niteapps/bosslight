@@ -7,17 +7,17 @@
   4. Press the Setting Icon in the home page to enter the scan page
   5. Press the Scan button to scan the light device
   
-  ![home image](https://github.com/niteapps/ioled/blob/main/en1.jpg)
+  ![home image](https://github.com/niteapps/bosslight/blob/main/en1.jpg)
   
   5. After searching for the device, click Connect button to connect it
   6. You can also connect or disconnect the device by the  button
   
-  ![home image](https://github.com/niteapps/ioled/blob/main/en2.jpg)
+  ![home image](https://github.com/niteapps/bosslight/blob/main/en2.jpg)
 
 ## 二, Control the LIGHT  ##
   1. After connecting the device, will enter the control page.
   
-   ![home image](https://github.com/niteapps/ioled/blob/main/en3.jpg)
+   ![home image](https://github.com/niteapps/bosslight/blob/main/en3.jpg)
    
   2. Slide the circular progress bar to adjust the brightness.
   3. Sliding the dual color temperature slider can adjust the color temperature
